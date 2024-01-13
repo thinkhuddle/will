@@ -1,6 +1,6 @@
 Many stuff
-2 - Two
+2
 3
 4
-5 - Five
-6 - Six
+5
+6
